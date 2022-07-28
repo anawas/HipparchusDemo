@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Demo/Distributions/Distributions.iml" filepath="$PROJECT_DIR$/Demo/Distributions/Distributions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Distributions/Distributions.iml" filepath="$PROJECT_DIR$/Distributions/Distributions.iml" />
       <module fileurl="file://$PROJECT_DIR$/EquationSystem/EquationSystem.iml" filepath="$PROJECT_DIR$/EquationSystem/EquationSystem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Demo/Fitting/Fitting.iml" filepath="$PROJECT_DIR$/Demo/Fitting/Fitting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fitting/Fitting.iml" filepath="$PROJECT_DIR$/Fitting/Fitting.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HipparchusDemo.iml" filepath="$PROJECT_DIR$/.idea/HipparchusDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Demo/ODE/ODE.iml" filepath="$PROJECT_DIR$/Demo/ODE/ODE.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Demo/RootFinding/RootFinding.iml" filepath="$PROJECT_DIR$/Demo/RootFinding/RootFinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ODE/ODE.iml" filepath="$PROJECT_DIR$/ODE/ODE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RootFinding/RootFinding.iml" filepath="$PROJECT_DIR$/RootFinding/RootFinding.iml" />
     </modules>
   </component>
 </project>

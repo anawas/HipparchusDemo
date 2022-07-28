@@ -3,3 +3,4 @@
 
 # class folders
 out/**
+.idea/sonarlint/**/
