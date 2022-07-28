@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComplexNumbers/ComplexNumbers.iml" filepath="$PROJECT_DIR$/ComplexNumbers/ComplexNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Distributions/Distributions.iml" filepath="$PROJECT_DIR$/Distributions/Distributions.iml" />
       <module fileurl="file://$PROJECT_DIR$/EquationSystem/EquationSystem.iml" filepath="$PROJECT_DIR$/EquationSystem/EquationSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fitting/Fitting.iml" filepath="$PROJECT_DIR$/Fitting/Fitting.iml" />
