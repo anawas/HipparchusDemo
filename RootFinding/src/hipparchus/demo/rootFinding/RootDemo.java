@@ -1,14 +1,12 @@
 package hipparchus.demo.rootFinding;
 
 import org.hipparchus.analysis.UnivariateFunction;
-import org.hipparchus.analysis.differentiation.Derivative;
 import org.hipparchus.analysis.differentiation.FiniteDifferencesDifferentiator;
 import org.hipparchus.analysis.differentiation.UnivariateDifferentiableFunction;
 import org.hipparchus.analysis.solvers.BracketingNthOrderBrentSolver;
 import org.hipparchus.analysis.solvers.NewtonRaphsonSolver;
 import org.hipparchus.analysis.solvers.RegulaFalsiSolver;
 import org.hipparchus.analysis.solvers.UnivariateSolver;
-import org.hipparchus.exception.MathIllegalArgumentException;
 
 
 
