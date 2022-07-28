@@ -1,0 +1,5 @@
+# ignore annoying macOS files
+.DS_Store
+
+# class folders
+out/**
