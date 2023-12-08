@@ -8,8 +8,6 @@ import org.hipparchus.analysis.solvers.NewtonRaphsonSolver;
 import org.hipparchus.analysis.solvers.RegulaFalsiSolver;
 import org.hipparchus.analysis.solvers.UnivariateSolver;
 
-
-
 public class RootDemo {
   public static void main(String[] args) {
     UnivariateFunction function = x -> 2*x*x-5.0;
