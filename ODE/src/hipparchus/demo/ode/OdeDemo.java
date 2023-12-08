@@ -1,4 +1,4 @@
-package hipparchus.demo.fitting;
+package hipparchus.demo.ode;
 
 import java.util.Locale;
 import org.hipparchus.ode.ODEIntegrator;

@@ -1,4 +1,4 @@
-package hipparchus.demo.fitting;
+package hipparchus.demo.ode;
 
 import org.hipparchus.ode.OrdinaryDifferentialEquation;
 
